@@ -1,12 +1,4 @@
 Đề tài: Mạng xã hội
-Thành viên: 1 đến 4
-Nộp bài hàng tuần trên Moodle theo BTN (một thành viên đại diện)
-Đặt tên tập tin: MSSV1_MSSV2_MSSV3_MSSV4_xx.zip/rar (xx: điểm tự đánh giá như BTCN)
-Đăng ký nhóm: Theo danh sách nộp bài nhóm lần 1
-Hình thức chấm: 50% BTN + 50% vấn đáp cuối kỳ
-Vấn đáp với GVLT vào buổi thi cuối kỳ trên phòng, theo lịch PĐT
-Tất cả thành viên đều phải commit lên github trong toàn bộ thời gian làm đồ án. Nhóm/thành viên không commit đầy đủ có thể bị trừ đến 40% điểm đồ án
-
 Yêu cầu:
 - Xây dựng đồ án bằng PHP, MySQL, HTML, JS, CSS
 - Có thể sử dụng các framework PHP có sẵn: Laravel, Symfony, Zend... hoặc dựa trên BTCN
