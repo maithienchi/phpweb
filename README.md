@@ -1,5 +1,3 @@
-Đồ án Web 1
-
 Đề tài: Mạng xã hội
 Thành viên: 1 đến 4
 Nộp bài hàng tuần trên Moodle theo BTN (một thành viên đại diện)
